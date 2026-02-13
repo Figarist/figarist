@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Unity+Developer;Computer+Science+Tutor;Nintendo+Fan;Critical+Thinker;Tech+Perfectionist" alt="Typing SVG" />
 </div>
@@ -32,7 +34,7 @@
 <td width="45%" valign="top" align="center">
 <h3>📈 Activity & Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Figarist&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Figarist&theme=dark&hide_border=true" width="100%" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Figarist&theme=synthwave&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=300" alt="GitHub Streak" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figarist&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" />
 </td>
 </tr>
