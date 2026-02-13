@@ -32,10 +32,10 @@
 </p>
 </td>
 <td width="45%" valign="top" align="center">
-<h3>📈 Activity & Stats</h3>
-<img src="github-metrics.svg" width="100%" />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Figarist&theme=synthwave&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=300" alt="GitHub Streak" /></a>
-<img src="github-languages.svg" width="100%" />
+  <h3>📈 Activity & Stats</h3>
+  <img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/0-profile-details.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/2-most-commit-language.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/3-stats.svg" width="100%" />
 </td>
 </tr>
 </table>
@@ -72,22 +72,10 @@
 
 ---
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
-<h3>🐍 Contribution Snake</h3>
-<img src="https://raw.githubusercontent.com/Figarist/Figarist/output/github-contribution-grid-snake.svg" alt="Snake" />
-</td>
-<td width="50%" align="center">
-<h3>😂 Random Dev Joke</h3>
-<img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Joke" />
-</td>
-</tr>
-</table>
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Figarist&icon=2&color=12" />
-</p>
+<div align="center">
+  <h3>omnomnom</h3>
+  <img src="https://raw.githubusercontent.com/Figarist/Figarist/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
 
 ---
 
