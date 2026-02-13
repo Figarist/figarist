@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=800&lines=Unity+Developer+%F0%9F%8E%AE;Computer+Science+Tutor+%F0%9F%93%9A;Nintendo+Enthusiast+%F0%9F%95%B9%EF%B8%8F;VR+%26+Android+Specialist+%F0%9F%A5%BD;Code+Perfectionist+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=800&lines=Unity+Developer+%F0%9F%8E%AE;Computer+Science+Tutor+%F0%9F%93%9A;Nintendo+Enthusiast+%F0%9F%95%B9%EF%B8%8F;VR+%26+Android+Specialist+%F0%9F%A5%BD;Code+Perfectionist+%E2%9C%A8;Music+Lover+%F0%9F%8E%B5" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -13,6 +13,7 @@
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/Figarist#9852)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0866FF)](https://facebook.com/ihorsivoch)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584)](https://instagram.com/figarist.xom)
+  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
   
 </div>
 
@@ -39,9 +40,35 @@ const figarist = {
         hobbies: ["Pokémon TCG", "LEGO Building", "Sonic Series", "Handhelds"],
         media: ["4K Cinema", "Racing Games", "Rhythm Games"],
         interests: ["Music Production", "Tech Automation", "Switch 2 Hype! 🎮"]
-    }
+    },
+    
+    currentlyListening: "Check below! 🎵"
 };
 ```
+
+<br/>
+
+---
+
+<br/>
+
+## 🎵 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚅𝚒𝚋𝚒𝚗𝚐 𝚃𝚘
+
+<div align="center">
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=lxw74ycexoku13aass8t92lp9&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatoren&show_offline=false&background_color=1a1b27&interchange=true&bar_color=c77dff&bar_color_cover=true" alt="Spotify Now Playing" width="450"/>
+</a>
+
+</div>
+
+<div align="center">
+  <i>𝙻𝚒𝚟𝚎 𝚞𝚙𝚍𝚊𝚝𝚒𝚗𝚐 𝙽𝚘𝚠 𝙿𝚕𝚊𝚢𝚒𝚗𝚐 𝚘𝚗 𝚂𝚙𝚘𝚝𝚒𝚏𝚢</i>
+</div>
+
+<br/>
+
+---
 
 <br/>
 
@@ -108,10 +135,21 @@ const figarist = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Figarist&theme=synthwave&layout=compact&hide_border=true&bg_color=1a1b27" width="48%" />
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Figarist&theme=synthwave&layout=compact&hide_border=true&bg_color=1a1b27" width="95%" />
+
+</td>
+<td width="50%" valign="top">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -194,5 +232,7 @@ const figarist = {
   <br/>
   
   **💜 𝙼𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚋𝚢 𝙵𝚒𝚐𝚊𝚛𝚒𝚜𝚝 | 𝙴𝚜𝚝. 𝟸𝟶𝟸𝟼 💜**
+  
+  <sub>𝙲𝚘𝚍𝚒𝚗𝚐, 𝙶𝚊𝚖𝚒𝚗𝚐 & 𝚅𝚒𝚋𝚒𝚗𝚐 🎮🎵✨</sub>
   
 </div>
