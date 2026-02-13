@@ -33,9 +33,9 @@
 </td>
 <td width="45%" valign="top" align="center">
 <h3>📈 Activity & Stats</h3>
-<img src="https://github.com/Figarist/Figarist/blob/output/github-metrics.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Figarist/Figarist/output/github-metrics.svg" width="100%" />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Figarist&theme=synthwave&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=300" alt="GitHub Streak" /></a>
-<img src="https://github.com/Figarist/Figarist/blob/output/github-languages.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Figarist/Figarist/output/github-languages.svg" width="100%" />
 </td>
 </tr>
 </table>
@@ -76,7 +76,7 @@
 <tr>
 <td width="50%" align="center">
 <h3>🐍 Contribution Snake</h3>
-<img src="https://github.com/Figarist/Figarist/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
+<img src="https://raw.githubusercontent.com/Figarist/Figarist/output/dist/github-contribution-grid-snake.svg" alt="Snake" />
 </td>
 <td width="50%" align="center">
 <h3>😂 Random Dev Joke</h3>
