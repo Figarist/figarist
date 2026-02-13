@@ -48,29 +48,13 @@ const figarist = {
 
 <br/>
 
----
-
-<br/>
-
 ## 🎵 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚅𝚒𝚋𝚒𝚗𝚐 𝚃𝚘
-
-<div align="center">
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=lxw74ycexoku13aass8t92lp9&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=lxw74ycexoku13aass8t92lp9&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=true&bar_color=c77dff&bar_color_cover=true" alt="Spotify Now Playing" width="450"/>
-</a>
-
-</div>
-
-<div align="center">
-  <i>𝙻𝚒𝚟𝚎 𝚞𝚙𝚍𝚊𝚝𝚒𝚗𝚐 𝙽𝚘𝚠 𝙿𝚕𝚊𝚢𝚒𝚗𝚐 𝚘𝚗 𝚂𝚙𝚘𝚝𝚒𝚏𝚢</i>
-</div>
-
 <br/>
-
----
-
-<br/>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lxw74ycexoku13aass8t92lp9&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=true&bar_color=a95cd6&bar_color_cover=false">
+  </a>
+</p>
 
 ## 💻 𝚃𝚎𝚌𝚑 𝙰𝚛𝚜𝚎𝚗𝚊𝚕
 
@@ -94,11 +78,6 @@ const figarist = {
 
 </div>
 
-<br/>
-
----
-
-<br/>
 
 ## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜
 
@@ -127,9 +106,6 @@ const figarist = {
 
 <br/>
 
----
-
-<br/>
 
 ## ⏱️ 𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝙲𝚘𝚍𝚒𝚗𝚐 𝚂𝚝𝚊𝚝𝚜
 
@@ -139,7 +115,7 @@ const figarist = {
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Figarist&theme=synthwave&layout=compact&hide_border=true&bg_color=1a1b27" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Figarist&theme=synthwave&layout=compact&hide_border=true&bg_color=1a1b27" width="400" />
 
 </td>
 <td width="50%" valign="top">
@@ -155,10 +131,6 @@ const figarist = {
 
 <br/>
 
----
-
-<br/>
-
 ## 🐍 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 
 <div align="center">
@@ -169,9 +141,6 @@ const figarist = {
   </picture>
 </div>
 
-<br/>
-
----
 
 <br/>
 
@@ -200,9 +169,7 @@ const figarist = {
 </tr>
 </table>
 
-<br/>
 
----
 
 <br/>
 
