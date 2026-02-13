@@ -111,15 +111,6 @@ const figarist = {
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Figarist&theme=synthwave&layout=compact&hide_border=true&bg_color=1a1b27" width="400" />
-
-</td>
-<td width="50%" valign="top">
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -135,10 +126,6 @@ ShaderLab        26 mins         ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -203,19 +190,6 @@ ShaderLab        26 mins         ░░░░░░░░░░░░░░░�
 
 <div align="center">
   <img src="Assets/Footer.png" width="100%" alt="Footer" />
-</div>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Figarist&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-  
-  <br/>
-  
-  **💜 𝙼𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚋𝚢 𝙵𝚒𝚐𝚊𝚛𝚒𝚜𝚝 | 𝙴𝚜𝚝. 𝟸𝟶𝟸𝟼 💜**
-  
-  <sub>𝙲𝚘𝚍𝚒𝚗𝚐, 𝙶𝚊𝚖𝚒𝚗𝚐 & 𝚅𝚒𝚋𝚒𝚗𝚐 🎮🎵✨</sub>
-  
-</div>
 </div>
 
 <div align="center">
