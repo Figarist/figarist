@@ -89,10 +89,7 @@ const figarist = {
 
 <img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/0-profile-details.svg" width="100%" alt="Profile Details" />
 
-<img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/2-most-commit-language.svg" width="100%" alt="Most Used Languages" />
 
-</td>
-<td width="50%" valign="top">
 
 <img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/3-stats.svg" width="100%" alt="Stats" />
 
