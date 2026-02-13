@@ -57,7 +57,7 @@ const figarist = {
 <div align="center">
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=lxw74ycexoku13aass8t92lp9&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatoren&show_offline=false&background_color=1a1b27&interchange=true&bar_color=c77dff&bar_color_cover=true" alt="Spotify Now Playing" width="450"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=lxw74ycexoku13aass8t92lp9&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=true&bar_color=c77dff&bar_color_cover=true" alt="Spotify Now Playing" width="450"/>
 </a>
 
 </div>
