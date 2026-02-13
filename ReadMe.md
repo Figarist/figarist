@@ -60,8 +60,6 @@ const figarist = {
 
 <div align="center">
 
-
-
 ### 🎮 𝙶𝚊𝚖𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -89,9 +87,16 @@ const figarist = {
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/0-profile-details.svg" width="100%" height="200%" alt="Profile Details" />
+<img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/0-profile-details.svg" width="100%" alt="Profile Details" />
 
-<img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/4-productive-time.svg" width="100%" height="100%" alt="Productive Time" />
+<img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/2-most-commit-language.svg" width="100%" alt="Most Used Languages" />
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/3-stats.svg" width="100%" alt="Stats" />
+
+<img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/4-productive-time.svg" width="100%" alt="Productive Time" />
 
 </td>
 </tr>
@@ -107,17 +112,31 @@ const figarist = {
 <div align="center">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2047%20mins-blue?style=flat)
 
-```txt
-I'm an Early 🐤
+**🐱 My GitHub Data** 
 
+> 📦 4.8 MB Used in GitHub's Storage 
+ > 
+> 🏆 239 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
 🌞 Morning                67 commits          █████████░░░░░░░░░░░░░░░░   34.90 % 
 🌆 Daytime                88 commits          ███████████░░░░░░░░░░░░░░   45.83 % 
 🌃 Evening                37 commits          █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Friday** 
 
-📅 I'm Most Productive on Friday
-
+```text
 Monday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 Tuesday                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 Wednesday                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
@@ -125,9 +144,27 @@ Thursday                 27 commits          ████░░░░░░░�
 Friday                   57 commits          ███████░░░░░░░░░░░░░░░░░░   29.69 % 
 Saturday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 Sunday                   27 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+```
 
-I Mostly Code in C#
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Kyiv
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C#** 
+
+```text
 C#                       33 repos            ██████████████░░░░░░░░░░░   56.90 % 
 ShaderLab                18 repos            ████████░░░░░░░░░░░░░░░░░   31.03 % 
 HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
@@ -135,6 +172,10 @@ C++                      1 repo              ░░░░░░░░░░░�
 Mathematica              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
+
+
+
+ Last Updated on 13/02/2026 15:41:21 UTC
 <!--END_SECTION:waka-->
 
 </div>
