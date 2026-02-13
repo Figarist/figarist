@@ -60,10 +60,7 @@ const figarist = {
 
 <div align="center">
 
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
-![Nintendo Switch](https://img.shields.io/badge/Nintendo%20Switch-E60012?style=for-the-badge&logo=nintendo%20switch&logoColor=white)
-![Final Fantasy](https://img.shields.io/badge/Final%20Fantasy-336699?style=for-the-badge&logo=final-fantasy&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white)
+
 
 ### 🎮 𝙶𝚊𝚖𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -159,26 +156,28 @@ Mathematica              1 repo              ░░░░░░░░░░░�
 
 ## 🎯 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙵𝚘𝚌𝚞𝚜
 
-<div align="center">
-
-<table width="100%">
+<table align="center">
 <tr>
-<td width="33%" align="center" valign="top">
-  <img src="https://img.shields.io/badge/VR_DEVELOPMENT-00FFFF?style=for-the-badge&logo=oculus&logoColor=black" />
-  <br/><sub>𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚒𝚖𝚖𝚎𝚛𝚜𝚒𝚟𝚎 𝚟𝚒𝚛𝚝𝚞𝚊𝚕 𝚛𝚎𝚊𝚕𝚒𝚝𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚠𝚒𝚝𝚑 𝚌𝚞𝚝𝚝𝚒𝚗𝚐-𝚎𝚍𝚐𝚎 𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚊𝚗𝚌𝚎</sub>
+<td width="33%" align="center">
+  
+  ### 🥽 𝚅𝚁 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
+  𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚒𝚖𝚖𝚎𝚛𝚜𝚒𝚟𝚎 𝚟𝚒𝚛𝚝𝚞𝚊𝚕 𝚛𝚎𝚊𝚕𝚒𝚝𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚠𝚒𝚝𝚑 𝚌𝚞𝚝𝚝𝚒𝚗𝚐-𝚎𝚍𝚐𝚎 𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚊𝚗𝚌𝚎 𝚘𝚙𝚝𝚒𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗
+  
 </td>
-<td width="33%" align="center" valign="top">
-  <img src="https://img.shields.io/badge/MOBILE_&_WEAROS-FF00FF?style=for-the-badge&logo=android&logoColor=white" />
-  <br/><sub>𝙲𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚎𝚗𝚐𝚊𝚐𝚒𝚗𝚐 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 & 𝚆𝚎𝚊𝚛 𝙾𝚂 𝚐𝚊𝚖𝚎𝚜 𝚠𝚒𝚝𝚑 𝚜𝚖𝚘𝚘𝚝𝚑 𝚐𝚊𝚖𝚎𝚙𝚕𝚊𝚢</sub>
+<td width="33%" align="center">
+  
+  ### 📱 𝙼𝚘𝚋𝚒𝚕𝚎 𝙶𝚊𝚖𝚎𝚜
+  𝙲𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚎𝚗𝚐𝚊𝚐𝚒𝚗𝚐 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 & 𝚆𝚎𝚊𝚛 𝙾𝚂 𝚐𝚊𝚖𝚎𝚜 𝚠𝚒𝚝𝚑 𝚜𝚖𝚘𝚘𝚝𝚑 𝚐𝚊𝚖𝚎𝚙𝚕𝚊𝚢 𝚊𝚗𝚍 𝚒𝚗𝚝𝚞𝚒𝚝𝚒𝚟𝚎 𝚌𝚘𝚗𝚝𝚛𝚘𝚕𝚜
+  
 </td>
-<td width="33%" align="center" valign="top">
-  <img src="https://img.shields.io/badge/TEACHING-9D00FF?style=for-the-badge&logo=google-classroom&logoColor=white" />
-  <br/><sub>𝙼𝚎𝚗𝚝𝚘𝚛𝚒𝚗𝚐 𝚊𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 𝚒𝚗 𝚄𝚗𝚒𝚝𝚢 𝚊𝚗𝚍 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎</sub>
+<td width="33%" align="center">
+  
+  ### 👨‍🏫 𝚃𝚎𝚊𝚌𝚑𝚒𝚗𝚐
+  𝙼𝚎𝚗𝚝𝚘𝚛𝚒𝚗𝚐 𝚊𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 𝚒𝚗 𝚄𝚗𝚒𝚝𝚢 𝚊𝚗𝚍 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚏𝚞𝚗𝚍𝚊𝚖𝚎𝚗𝚝𝚊𝚕𝚜
+  
 </td>
 </tr>
 </table>
-
-</div>
 
 
 
