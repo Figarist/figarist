@@ -121,6 +121,15 @@ const figarist = {
 <td width="50%" valign="top">
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 05 February 2026 - To: 12 February 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 </td>
