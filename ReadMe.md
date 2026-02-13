@@ -94,11 +94,7 @@ const figarist = {
 
 <br/>
 
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Figarist&theme=synthwave&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800&hide_border=true&background=1A1B27&ring=C77DFF&fire=FF6BCB&currStreakLabel=E0AAFF" alt="GitHub Streak" />
-  
-</div>
+---
 
 <br/>
 
@@ -112,6 +108,9 @@ const figarist = {
   </picture>
 </div>
 
+<br/>
+
+---
 
 <br/>
 
@@ -141,6 +140,9 @@ const figarist = {
 </table>
 
 <br/>
+
+---
+
 <br/>
 
 <div align="center">
@@ -155,14 +157,17 @@ const figarist = {
 
 <br/>
 <br/>
-<br/>
+
 <div align="center">
   <img src="Assets/Footer.png" width="100%" alt="Footer" />
 </div>
 
 <div align="center">
-
-
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Figarist&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+  
+  <br/>
+  
   **💜 Made with passion by Figarist | Est. 2026 💜**
   
 </div>
