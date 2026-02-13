@@ -1,4 +1,6 @@
-![Banner](assets/banner.png)
+<div align="center">
+  <img src="Assets/Header.png" width="100%" />
+</div>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Unity+Developer;Computer+Science+Tutor;Nintendo+Fan;Critical+Thinker;Tech+Perfectionist" alt="Typing SVG" />
@@ -85,3 +87,7 @@
 <a href="https://patreon.com/figarist"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
 <a href="https://ko-fi.com/figarist"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </p>
+
+<div align="center">
+  <img src="Assets/Footer.png" width="100%" />
+</div>
