@@ -1,93 +1,168 @@
 <div align="center">
-  <img src="Assets/Header.png" width="100%" />
+  <img src="Assets/Header.png" width="100%" alt="Figarist Header" />
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Unity+Developer;Computer+Science+Tutor;Nintendo+Fan;Critical+Thinker;Tech+Perfectionist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=800&lines=Unity+Developer+%F0%9F%8E%AE;Computer+Science+Tutor+%F0%9F%93%9A;Nintendo+Enthusiast+%F0%9F%95%B9%EF%B8%8F;VR+%26+Android+Specialist+%F0%9F%A5%BD;Code+Perfectionist+%E2%9C%A8" alt="Typing SVG" />
 </div>
+
+<br/>
+
+<div align="center">
+  
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/Figarist#9852)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0866FF)](https://facebook.com/ihorsivoch)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584)](https://instagram.com/figarist.xom)
+  
+</div>
+
+<br/>
+
+## 🌆 About Me
+
+```typescript
+const figarist = {
+    location: "Kharkiv, Ukraine 🇺🇦",
+    age: 27,
+    role: "Unity Developer & Computer Science Tutor",
+    passion: "Creating immersive games and teaching the next generation",
+    
+    focus: {
+        vr: "High-performance VR experiences",
+        mobile: "Android & Wear OS development",
+        architecture: "Clean code & OOP principles",
+        methodology: "Spec-Driven Development"
+    },
+    
+    geekLife: {
+        gaming: ["Nintendo Switch", "Nintendo DS", "Physical Game Collector"],
+        hobbies: ["Pokémon TCG", "LEGO Building", "Sonic Series", "Handhelds"],
+        media: ["4K Cinema", "Racing Games", "Rhythm Games"],
+        interests: ["Music Production", "Tech Automation", "Switch 2 Hype! 🎮"]
+    }
+};
+```
+
+<br/>
 
 <table align="center">
 <tr>
-<td width="55%" valign="top">
-<h3>👋 About Me</h3>
-<p><b>27M | Unity Dev | Kharkiv | Ukraine</b></p>
-<p><i>I teach Unity to kids and adults. We love making cool games. I love making cool games.</i></p>
+<td width="50%" valign="top">
 
-<h4>🛠️ Focus & Goals</h4>
-<ul>
-<li><b>Unity Development:</b> High-performance VR, Android/Wear OS, and solid systems.</li>
-<li><b>Technical Perfectionism:</b> Spec-Driven Development & OOP.</li>
-<li><b>Architecture:</b> Code quality through deep analysis and refactoring.</li>
-</ul>
+### 💻 Tech Arsenal
 
-<h4>🎮 Geek Life</h4>
-<ul>
-<li><b>Nintendo:</b> Switch, Switch 2 (hype), DS, physical collector.</li>
-<li><b>Hobbies:</b> Pokémon TCG, LEGO, Sonic, Handhelds, 4K Cinema.</li>
-<li><b>Interests:</b> Racing games, rhythm games, music, tech automation.</li>
-</ul>
+<div align="center">
 
-<p align="center">
-<a href="https://discord.gg/Figarist#9852"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
-<a href="https://facebook.com/ihorsivoch"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-<a href="https://instagram.com/figarist.xom"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-</p>
+#### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+#### 🐍 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+#### 🛠️ Development Tools
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### 🎨 Creative Suite
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
 </td>
-<td width="45%" valign="top" align="center">
-  <h3>📈 Activity & Stats</h3>
-  <img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/0-profile-details.svg" width="100%" />
-  <img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/2-most-commit-language.svg" width="100%" />
-  <img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/3-stats.svg" width="100%" />
+<td width="50%" valign="top">
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/0-profile-details.svg" width="100%" alt="Profile Details" />
+  
+  <img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/2-most-commit-language.svg" width="100%" alt="Most Used Languages" />
+  
+  <img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/3-stats.svg" width="100%" alt="Stats" />
+  
+</div>
+
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<h3 align="center">💻 Tech Stack</h3>
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Figarist&theme=synthwave&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800&hide_border=true&background=1A1B27&ring=C77DFF&fire=FF6BCB&currStreakLabel=E0AAFF" alt="GitHub Streak" />
+  
+</div>
+
+<br/>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Figarist/Figarist/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Figarist/Figarist/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Figarist/Figarist/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
+<br/>
+
+## 🎯 Current Focus
 
 <table align="center">
 <tr>
-<td align="center"><b>Engines & Languages</b></td>
-<td align="center"><b>Tools & Frameworks</b></td>
-<td align="center"><b>Workflow</b></td>
-</tr>
-<tr>
-<td valign="top">
-<img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /><br/>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+<td width="33%" align="center">
+  
+  ### 🥽 VR Development
+  Building immersive virtual reality experiences with cutting-edge performance optimization
+  
 </td>
-<td valign="top">
-<img src="https://img.shields.io/badge/Rider-000000.svg?style=flat-square&logo=Rider&logoColor=white&color=black&labelColor=crimson" /><br/>
-<img src="https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green" /><br/>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
+<td width="33%" align="center">
+  
+  ### 📱 Mobile Games
+  Creating engaging Android & Wear OS games with smooth gameplay and intuitive controls
+  
 </td>
-<td valign="top">
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF" /><br/>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" />
+<td width="33%" align="center">
+  
+  ### 👨‍🏫 Teaching
+  Mentoring aspiring developers in Unity and computer science fundamentals
+  
 </td>
 </tr>
 </table>
 
----
+<br/>
+<br/>
 
 <div align="center">
-  <h3>omnomnom</h3>
-  <img src="https://raw.githubusercontent.com/Figarist/Figarist/output/github-contribution-grid-snake.svg" alt="Snake" />
+  
+  ### If you enjoy my projects, consider supporting me! ☕
+  
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/figarist)
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/figarist)
+  [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/figarist)
+  
 </div>
 
----
-
-<h3 align="center">💰 Support My Work</h3>
-<p align="center">
-<a href="https://buymeacoffee.com/figarist"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-<a href="https://patreon.com/figarist"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
-<a href="https://ko-fi.com/figarist"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-</p>
+<br/>
+<br/>
+<br/>
+<div align="center">
+  <img src="Assets/Footer.png" width="100%" alt="Footer" />
+</div>
 
 <div align="center">
-  <img src="Assets/Footer.png" width="100%" />
+
+
+  **💜 Made with passion by Figarist | Est. 2026 💜**
+  
 </div>
