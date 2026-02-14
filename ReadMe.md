@@ -70,6 +70,11 @@ const figarist = {
 ![](https://img.shields.io/badge/AI%20Assistant-Gemini%20Flash-4E86F8?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<br>
+![](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/HLSL-5E5E5E?style=for-the-badge&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </td>
 </tr>
@@ -130,7 +135,7 @@ const figarist = {
 </tr>
 </table>
 
-<div align="left">
+</div>
 
 ## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜
 
@@ -138,7 +143,7 @@ const figarist = {
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 <img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/0-profile-details.svg" width="100%" alt="Profile Details" />
 
@@ -154,10 +159,9 @@ const figarist = {
 
 </div>
 
-<br/>
 </div>
 
-<div align="left">
+
 
 ## ⏱️ 𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝙲𝚘𝚍𝚒𝚗𝚐 𝚂𝚝𝚊𝚝𝚜
 
@@ -223,7 +227,6 @@ Mathematica              1 repo              ░░░░░░░░░░░�
 </div>
 
 
-<br/>
 
 <br/>
 
