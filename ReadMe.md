@@ -10,11 +10,12 @@
 
 <div align="center">
   
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/Figarist#9852)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0866FF)](https://facebook.com/ihorsivoch)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584)](https://instagram.com/figarist.xom)
-  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-  
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/201598908030386176)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0866FF)](https://www.facebook.com/Figarist/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584)](https://www.instagram.com/figarist.xom/)
+  [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@figarist.xom)
+  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/figaristo/)
+  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/lxw74ycexoku13aass8t92lp9)
 </div>
 
 <br/>
@@ -23,7 +24,7 @@
 
 ```typescript
 const figarist = {
-    location: "Kharkiv, Ukraine 🇺🇦",
+    location: "Kharkiv, Ukraine UA",
     age: 27,
     role: "Unity Developer & Computer Science Tutor",
     passion: "Creating immersive games and teaching the next generation",
@@ -37,12 +38,10 @@ const figarist = {
     
     geekLife: {
         gaming: ["Nintendo Switch", "Nintendo DS", "Physical Game Collector"],
-        hobbies: ["Pokémon TCG", "LEGO Building", "Sonic Series", "Handhelds"],
-        media: ["4K Cinema", "Racing Games", "Rhythm Games"],
-        interests: ["Music Production", "Tech Automation", "Switch 2 Hype! 🎮"]
-    },
-    
-    currentlyListening: "Check below! 🎵"
+        hobbies: ["Pokémon TCG", "Pokémon games", "LEGO", "Sonic Series", "Handhelds", "Rare games"],
+        media: ["4K Cinema", "Racing Games", "Rhythm Games", "Geek Games"],
+        interests: ["Puzzles", "Heavy Metal","Music Production", "Tech Automation", "Switch 2 Hype! 🎮"]
+    }
 };
 ```
 
@@ -60,24 +59,33 @@ const figarist = {
 
 <div align="center">
 
-### 🎮 𝙶𝚊𝚖𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+| **🛠️ 𝙳𝚎𝚟 𝙴𝚗𝚟𝚒𝚛𝚘𝚗𝚖𝚎𝚗𝚝** | **🎮 𝙷𝚊𝚕𝚕 𝚘𝚏 𝙵𝚊𝚖𝚎** |
+|:---:|:---:|
+| ![](https://img.shields.io/badge/Unity-6000.3%20URP-000000?style=for-the-badge&logo=unity&logoColor=white) <br> ![](https://img.shields.io/badge/Rider-2025.3-DD1100?style=for-the-badge&logo=jetbrains&logoColor=black) <br> ![](https://img.shields.io/badge/AI%20Assistant-Gemini%20Flash-4E86F8?style=for-the-badge&logo=googlegemini&logoColor=white) <br> ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![](https://img.shields.io/badge/Fallout-War%20Never%20Changes-14D32E?style=flat-square&logo=bethesda&logoColor=white) ![](https://img.shields.io/badge/Skyrim-Stealth%20Archer-95A5A6?style=flat-square&logo=bethesda&logoColor=white) <br> ![](https://img.shields.io/badge/Warframe-Wake%20Up%20Tenno-1E90FF?style=flat-square&logo=steam&logoColor=white) ![](https://img.shields.io/badge/Final%20Fantasy-Kupo!-4169E1?style=flat-square&logo=square-enix&logoColor=white) <br> ![](https://img.shields.io/badge/R6%20Siege-Clutch%20or%20Kick-FF4500?style=flat-square&logo=ubisoft&logoColor=white) ![](https://img.shields.io/badge/SOMA-Existential%20Crisis-8B0000?style=flat-square&logo=steam&logoColor=white) <br> ![](https://img.shields.io/badge/Rayman-Platforming%20Chaos-FFD700?style=flat-square&logo=ubisoft&logoColor=white) ![](https://img.shields.io/badge/Naruto-Dattebayo!-FF8C00?style=flat-square&logo=bandai-namco&logoColor=white) <br> ![](https://img.shields.io/badge/GRID-Apex%20Predator-E60000?style=flat-square&logo=electronic-arts&logoColor=white) |
 
-### 🐍 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<br>
 
-### 🛠️ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚃𝚘𝚘𝚕𝚜
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+### ⚙️ 𝙱𝚊𝚝𝚝𝚕𝚎 𝚂𝚝𝚊𝚝𝚒𝚘𝚗
 
-</div>
+![](https://img.shields.io/badge/CPU-Ryzen%209%205900X-EF3B2C?style=for-the-badge&logo=amd&logoColor=white)
+![](https://img.shields.io/badge/GPU-RTX%204070%20Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/RAM-64GB%203600MHz-blue?style=for-the-badge&logo=corsair&logoColor=white)
+![](https://img.shields.io/badge/SSD-3TB%20NVMe-black?style=for-the-badge&logo=samsung&logoColor=white)
+![](https://img.shields.io/badge/Cooling-Be%20Quiet!-black?style=for-the-badge&logo=bequiet&logoColor=orange)
 
+<br>
+
+![](https://img.shields.io/badge/Monitor-Samsung%20Ultrawide-1428A0?style=for-the-badge&logo=samsung&logoColor=white)
+![](https://img.shields.io/badge/Gear-ASUS%20ROG-FF0000?style=for-the-badge&logo=asus&logoColor=white)
+![](https://img.shields.io/badge/Wheel-Logitech%20G923-00B5E2?style=for-the-badge&logo=logitech&logoColor=black)
+
+<br>
+
+![](https://img.shields.io/badge/VR-Meta%20Quest%203-0082FB?style=for-the-badge&logo=meta&logoColor=white)
+![](https://img.shields.io/badge/Console-Switch%202-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+![](https://img.shields.io/badge/Controller-Xbox%20Series%20X-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+
+<div align="left">
 
 ## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜
 
@@ -102,7 +110,9 @@ const figarist = {
 </div>
 
 <br/>
+</div>
 
+<div align="left">
 
 ## ⏱️ 𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝙲𝚘𝚍𝚒𝚗𝚐 𝚂𝚝𝚊𝚝𝚜
 
@@ -112,21 +122,21 @@ const figarist = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                99 commits          ████████░░░░░░░░░░░░░░░░░   33.22 % 
-🌆 Daytime                139 commits         ████████████░░░░░░░░░░░░░   46.64 % 
-🌃 Evening                60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+🌞 Morning                67 commits          ████████░░░░░░░░░░░░░░░░░   33.84 % 
+🌆 Daytime                90 commits          ███████████░░░░░░░░░░░░░░   45.45 % 
+🌃 Evening                41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Tuesday                  41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Wednesday                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Thursday                 30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Friday                   99 commits          ████████░░░░░░░░░░░░░░░░░   33.22 % 
-Saturday                 34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Sunday                   53 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Monday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Tuesday                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Wednesday                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Thursday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Friday                   63 commits          ████████░░░░░░░░░░░░░░░░░   31.82 % 
+Saturday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Sunday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 ```
 
 
@@ -134,9 +144,7 @@ Sunday                   53 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 45 mins       ███████████████████░░░░░░   75.58 % 
-Markdown                 43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -152,7 +160,7 @@ Mathematica              1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2026 05:42:32 UTC
+ Last Updated on 13/02/2026 16:45:07 UTC
 <!--END_SECTION:waka-->
 
 </div>
@@ -208,7 +216,7 @@ Mathematica              1 repo              ░░░░░░░░░░░�
   ### 𝙸𝚏 𝚢𝚘𝚞 𝚎𝚗𝚓𝚘𝚢 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝚌𝚘𝚗𝚜𝚒𝚍𝚎𝚛 𝚜𝚞𝚙𝚙𝚘𝚛𝚝𝚒𝚗𝚐 𝚖𝚎! ☕
   
   [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/figarist)
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/figarist)
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/figarist)
   [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/figarist)
   
 </div>
@@ -227,7 +235,7 @@ Mathematica              1 repo              ░░░░░░░░░░░�
   <br/>
   
   **💜 𝙼𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚋𝚢 𝙵𝚒𝚐𝚊𝚛𝚒𝚜𝚝 | 𝙴𝚜𝚝. 𝟸𝟶𝟸𝟼 💜**
-  
+
   <sub>𝙲𝚘𝚍𝚒𝚗𝚐, 𝙶𝚊𝚖𝚒𝚗𝚐 & 𝚅𝚒𝚋𝚒𝚗𝚐 🎮🎵✨</sub>
   
 </div>
