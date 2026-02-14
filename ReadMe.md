@@ -59,13 +59,52 @@ const figarist = {
 
 <div align="center">
 
-| **🛠️ 𝙳𝚎𝚟 𝙴𝚗𝚟𝚒𝚛𝚘𝚗𝚖𝚎𝚗𝚝** | **🎮 𝙷𝚊𝚕𝚕 𝚘𝚏 𝙵𝚊𝚖𝚎** |
-|:---:|:---:|
-| ![](https://img.shields.io/badge/Unity-6000.3%20URP-000000?style=for-the-badge&logo=unity&logoColor=white) <br> ![](https://img.shields.io/badge/Rider-2025.3-DD1100?style=for-the-badge&logo=jetbrains&logoColor=black) <br> ![](https://img.shields.io/badge/AI%20Assistant-Gemini%20Flash-4E86F8?style=for-the-badge&logo=googlegemini&logoColor=white) <br> ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![](https://img.shields.io/badge/Fallout-War%20Never%20Changes-14D32E?style=flat-square&logo=bethesda&logoColor=white) ![](https://img.shields.io/badge/Skyrim-Stealth%20Archer-95A5A6?style=flat-square&logo=bethesda&logoColor=white) <br> ![](https://img.shields.io/badge/Warframe-Wake%20Up%20Tenno-1E90FF?style=flat-square&logo=steam&logoColor=white) ![](https://img.shields.io/badge/Final%20Fantasy-Kupo!-4169E1?style=flat-square&logo=square-enix&logoColor=white) <br> ![](https://img.shields.io/badge/R6%20Siege-Clutch%20or%20Kick-FF4500?style=flat-square&logo=ubisoft&logoColor=white) ![](https://img.shields.io/badge/SOMA-Existential%20Crisis-8B0000?style=flat-square&logo=steam&logoColor=white) <br> ![](https://img.shields.io/badge/Rayman-Platforming%20Chaos-FFD700?style=flat-square&logo=ubisoft&logoColor=white) ![](https://img.shields.io/badge/Naruto-Dattebayo!-FF8C00?style=flat-square&logo=bandai-namco&logoColor=white) <br> ![](https://img.shields.io/badge/GRID-Apex%20Predator-E60000?style=flat-square&logo=electronic-arts&logoColor=white) |
+### 🛠️ 𝙳𝚎𝚟 𝙴𝚗𝚟𝚒𝚛𝚘𝚗𝚖𝚎𝚗𝚝
+
+<table>
+<tr>
+<td align="center">
+
+![](https://img.shields.io/badge/Unity-6000.3%20URP-000000?style=for-the-badge&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/Rider-2025.3-DD1100?style=for-the-badge&logo=jetbrains&logoColor=black)
+![](https://img.shields.io/badge/AI%20Assistant-Gemini%20Flash-4E86F8?style=for-the-badge&logo=googlegemini&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🎮 𝙷𝚊𝚕𝚕 𝚘𝚏 𝙵𝚊𝚖𝚎
+
+<table>
+<tr>
+<td align="center">
+
+![](https://img.shields.io/badge/Fallout-War%20Never%20Changes-14D32E?style=flat-square&logo=bethesda&logoColor=white)
+![](https://img.shields.io/badge/Skyrim-Stealth%20Archer-95A5A6?style=flat-square&logo=bethesda&logoColor=white)
+![](https://img.shields.io/badge/Warframe-Wake%20Up%20Tenno-1E90FF?style=flat-square&logo=steam&logoColor=white)
+![](https://img.shields.io/badge/Final%20Fantasy-Kupo!-4169E1?style=flat-square&logo=square-enix&logoColor=white)
+![](https://img.shields.io/badge/R6%20Siege-Clutch%20or%20Kick-FF4500?style=flat-square&logo=ubisoft&logoColor=white)
+![](https://img.shields.io/badge/SOMA-Existential%20Crisis-8B0000?style=flat-square&logo=steam&logoColor=white)
+![](https://img.shields.io/badge/Rayman-Platforming%20Chaos-FFD700?style=flat-square&logo=ubisoft&logoColor=white)
+![](https://img.shields.io/badge/Naruto-Dattebayo!-FF8C00?style=flat-square&logo=bandai-namco&logoColor=white)
+![](https://img.shields.io/badge/GRID-Apex%20Predator-E60000?style=flat-square&logo=electronic-arts&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ### ⚙️ 𝙱𝚊𝚝𝚝𝚕𝚎 𝚂𝚝𝚊𝚝𝚒𝚘𝚗
+
+<table>
+<tr><th>🖥️ Core</th><th>🖱️ Peripherals</th><th>🎮 Extras</th></tr>
+<tr>
+<td align="center">
 
 ![](https://img.shields.io/badge/CPU-Ryzen%209%205900X-EF3B2C?style=for-the-badge&logo=amd&logoColor=white)
 ![](https://img.shields.io/badge/GPU-RTX%204070%20Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -73,17 +112,23 @@ const figarist = {
 ![](https://img.shields.io/badge/SSD-3TB%20NVMe-black?style=for-the-badge&logo=samsung&logoColor=white)
 ![](https://img.shields.io/badge/Cooling-Be%20Quiet!-black?style=for-the-badge&logo=bequiet&logoColor=orange)
 
-<br>
+</td>
+<td align="center">
 
 ![](https://img.shields.io/badge/Monitor-Samsung%20Ultrawide-1428A0?style=for-the-badge&logo=samsung&logoColor=white)
 ![](https://img.shields.io/badge/Gear-ASUS%20ROG-FF0000?style=for-the-badge&logo=asus&logoColor=white)
 ![](https://img.shields.io/badge/Wheel-Logitech%20G923-00B5E2?style=for-the-badge&logo=logitech&logoColor=black)
 
-<br>
+</td>
+<td align="center">
 
 ![](https://img.shields.io/badge/VR-Meta%20Quest%203-0082FB?style=for-the-badge&logo=meta&logoColor=white)
 ![](https://img.shields.io/badge/Console-Switch%202-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![](https://img.shields.io/badge/Controller-Xbox%20Series%20X-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <div align="left">
 
@@ -179,33 +224,6 @@ Mathematica              1 repo              ░░░░░░░░░░░�
 
 
 <br/>
-
-## 🎯 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙵𝚘𝚌𝚞𝚜
-
-<table align="center">
-<tr>
-<td width="33%" align="center">
-  
-  ### 🥽 𝚅𝚁 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
-  𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚒𝚖𝚖𝚎𝚛𝚜𝚒𝚟𝚎 𝚟𝚒𝚛𝚝𝚞𝚊𝚕 𝚛𝚎𝚊𝚕𝚒𝚝𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚠𝚒𝚝𝚑 𝚌𝚞𝚝𝚝𝚒𝚗𝚐-𝚎𝚍𝚐𝚎 𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚊𝚗𝚌𝚎 𝚘𝚙𝚝𝚒𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗
-  
-</td>
-<td width="33%" align="center">
-  
-  ### 📱 𝙼𝚘𝚋𝚒𝚕𝚎 𝙶𝚊𝚖𝚎𝚜
-  𝙲𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚎𝚗𝚐𝚊𝚐𝚒𝚗𝚐 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 & 𝚆𝚎𝚊𝚛 𝙾𝚂 𝚐𝚊𝚖𝚎𝚜 𝚠𝚒𝚝𝚑 𝚜𝚖𝚘𝚘𝚝𝚑 𝚐𝚊𝚖𝚎𝚙𝚕𝚊𝚢 𝚊𝚗𝚍 𝚒𝚗𝚝𝚞𝚒𝚝𝚒𝚟𝚎 𝚌𝚘𝚗𝚝𝚛𝚘𝚕𝚜
-  
-</td>
-<td width="33%" align="center">
-  
-  ### 👨‍🏫 𝚃𝚎𝚊𝚌𝚑𝚒𝚗𝚐
-  𝙼𝚎𝚗𝚝𝚘𝚛𝚒𝚗𝚐 𝚊𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 𝚒𝚗 𝚄𝚗𝚒𝚝𝚢 𝚊𝚗𝚍 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚏𝚞𝚗𝚍𝚊𝚖𝚎𝚗𝚝𝚊𝚕𝚜
-  
-</td>
-</tr>
-</table>
-
-
 
 <br/>
 
