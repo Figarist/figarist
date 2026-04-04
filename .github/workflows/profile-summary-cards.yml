@@ -16,14 +16,14 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
-      
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+
       - name: Generate GitHub Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+        uses: vn7n24fzkq/github-profile-summary-cards@974577f1823715ca047e9976548634816a3a0264 # release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # Available themes: default, solarized, vue, dracula, monokai, 
-          # github, github_dark, nord_bright, nord_dark, radical, 
+          # Available themes: default, solarized, vue, dracula, monokai,
+          # github, github_dark, nord_bright, nord_dark, radical,
           # chartreuse_dark, synthwave
